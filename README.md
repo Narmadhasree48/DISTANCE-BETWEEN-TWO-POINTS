@@ -15,7 +15,7 @@ using the print function, display the distance between the two points.
 ### Step 5: 
 End the program.
 ### PROGRAM:
-![Screenshot 2024-03-09 094034](https://github.com/Narmadhasree48/DISTANCE-BETWEEN-TWO-POINTS/assets/144979451/fe0cd7e4-4d1f-4380-8647-72c54751de39)
+
 
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
